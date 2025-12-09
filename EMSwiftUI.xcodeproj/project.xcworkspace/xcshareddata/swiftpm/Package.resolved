@@ -1,0 +1,42 @@
+{
+  "originHash" : "7bf57488cbc1b5899dfc3bed6064db8033a045f802b71a4b0538e84819a4e6c8",
+  "pins" : [
+    {
+      "identity" : "factory",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Factory.git",
+      "state" : {
+        "revision" : "ccc898f21992ebc130bc04cc197460a5ae230bcf",
+        "version" : "2.5.3"
+      }
+    },
+    {
+      "identity" : "logify",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aumetov7/Logify.git",
+      "state" : {
+        "revision" : "38d5f0669f99ad4d340f30277b07d972e3404e3b",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "netify",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aumetov7/Netify.git",
+      "state" : {
+        "revision" : "39260ccdccf8d76269d4dbf1de1cf9d2f0f76222",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftlintplugins",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SimplyDanny/SwiftLintPlugins",
+      "state" : {
+        "revision" : "ecafb5b056cb7995324f0d310a61f30661d00cad",
+        "version" : "0.62.2"
+      }
+    }
+  ],
+  "version" : 3
+}
