@@ -35,7 +35,8 @@
 <img width="437" height="840" alt="Part3Example" src="https://github.com/user-attachments/assets/61ae7ed2-f093-4c2d-a48f-1346c566939f" />
 
   
-# Работающее приложение https://github.com/user-attachments/assets/2ba0c585-ae92-4e80-a0a3-40e581ba1102
+# Работающее приложение 
+https://github.com/user-attachments/assets/2ba0c585-ae92-4e80-a0a3-40e581ba1102
 
 
 
